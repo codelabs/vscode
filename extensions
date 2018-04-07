@@ -1,0 +1,16 @@
+code --install-extension DavidAnson.vscode-markdownlint
+code --install-extension PeterJausovec.vscode-docker
+code --install-extension bungcip.better-toml
+code --install-extension humao.rest-client
+code --install-extension jpogran.puppet-vscode
+code --install-extension kumar-harsh.graphql-for-vscode
+code --install-extension lukehoban.Go
+code --install-extension ms-mssql.mssql
+code --install-extension redhat.vscode-yaml
+code --install-extension robertohuertasm.vscode-icons
+code --install-extension s3ramsay.vscode-gtm
+code --install-extension shd101wyy.markdown-preview-enhanced
+code --install-extension vitorsalgado.vscode-glide
+code --install-extension wayou.vscode-todo-highlight
+code --install-extension yzhang.markdown-all-in-one
+code --install-extension zxh404.vscode-proto3
