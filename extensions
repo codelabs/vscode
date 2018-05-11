@@ -1,5 +1,6 @@
 code --install-extension DavidAnson.vscode-markdownlint@0.15.0
 code --install-extension PeterJausovec.vscode-docker@0.0.26
+code --install-extension Shan.code-settings-sync@2.9.2
 code --install-extension aaron-bond.better-comments@1.2.2
 code --install-extension bungcip.better-toml@0.3.2
 code --install-extension humao.rest-client@0.18.4
